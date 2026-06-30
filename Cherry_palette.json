@@ -1,0 +1,26 @@
+{
+  "name": "Cherry",
+  "dataColors": [
+    "#53020C",
+    "#780000",
+    "#B1202E",
+    "#C1121F",
+    "#ED3B6B",
+    "#E6829C",
+    "#F4A7B0"
+  ],
+  "background": "#FFF8E7",
+  "foreground": "#1A0000",
+  "tableAccent": "#7A002B",
+  "good": "#780000",
+  "neutral": "#AC1634",
+  "bad": "#E77291",
+  "maximum": "#3E0014",
+  "center": "#AC1634",
+  "minimum": "#F4A7B0",
+  "textClasses": {
+    "label": {
+      "fontFace": "wf_standard-font, helvetica, arial, sans-serif"
+    }
+  }
+}
